@@ -1,6 +1,6 @@
 # NetBeans IDE - One-Dark Theme
 
-![Theme](https://github.com/ST10257002/NetBeansIDE-OneDark-Theme/blob/main/Screenshot%20(42).png)
+![Theme](https://github.com/ST10257002/NetBeansIDE-OneDark-Theme/blob/main/dev/nb-preview-01.png)
 
 ## How to theme the IDE
 
